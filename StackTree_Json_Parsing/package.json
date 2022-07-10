@@ -1,0 +1,7 @@
+{
+  "name": "StackTree json parsing",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-plugin-inline-json-import": "^0.3.2"
+  }
+}
