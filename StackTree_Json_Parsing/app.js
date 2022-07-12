@@ -14,8 +14,4 @@ let newData = data
   });
 let result = new Set(newData);
 result = [...result];
-// .map((val, idx) => {
-//   return [idx, val];
-// })
-// .slice(1, result.length);
 console.log(JSON.stringify(result, null, "\t"));
